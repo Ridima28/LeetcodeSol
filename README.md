@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ridima28/LeetcodeSol/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -28,8 +29,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0148-sort-list) |
+| [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0148-sort-list) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
