@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
+| [0726-number-of-atoms](https://github.com/Ridima28/LeetcodeSol/tree/master/0726-number-of-atoms) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ridima28/LeetcodeSol/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
+| [0726-number-of-atoms](https://github.com/Ridima28/LeetcodeSol/tree/master/0726-number-of-atoms) |
 ## Merge Sort
 |  |
 | ------- |
@@ -38,8 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
+| [0726-number-of-atoms](https://github.com/Ridima28/LeetcodeSol/tree/master/0726-number-of-atoms) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
+## Stack
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/Ridima28/LeetcodeSol/tree/master/0726-number-of-atoms) |
 <!---LeetCode Topics End-->
