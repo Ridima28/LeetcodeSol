@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ridima28/LeetcodeSol/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Ridima28/LeetcodeSol/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0148-sort-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ridima28/LeetcodeSol/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ridima28/LeetcodeSol/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ridima28/LeetcodeSol/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0148-sort-list) |
 ## String
 |  |
@@ -58,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ridima28/LeetcodeSol/tree/master/0002-add-two-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ridima28/LeetcodeSol/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ridima28/LeetcodeSol/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
