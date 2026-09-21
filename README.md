@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ridima28/LeetcodeSol/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Ridima28/LeetcodeSol/tree/master/0023-merge-k-sorted-lists) |
+| [0086-partition-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ridima28/LeetcodeSol/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ridima28/LeetcodeSol/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
