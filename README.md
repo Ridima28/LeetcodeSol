@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ridima28/LeetcodeSol/tree/master/0496-next-greater-element-i) |
+| [3151-special-array-i](https://github.com/Ridima28/LeetcodeSol/tree/master/3151-special-array-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ridima28/LeetcodeSol/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
