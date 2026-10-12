@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ridima28/LeetcodeSol/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ridima28/LeetcodeSol/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Ridima28/LeetcodeSol/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Ridima28/LeetcodeSol/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ridima28/LeetcodeSol/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/Ridima28/LeetcodeSol/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
