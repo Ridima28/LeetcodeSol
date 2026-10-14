@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ridima28/LeetcodeSol/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Ridima28/LeetcodeSol/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/Ridima28/LeetcodeSol/tree/master/0726-number-of-atoms) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ridima28/LeetcodeSol/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ridima28/LeetcodeSol/tree/master/0032-longest-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ridima28/LeetcodeSol/tree/master/0424-longest-repeating-character-replacement) |
 | [0726-number-of-atoms](https://github.com/Ridima28/LeetcodeSol/tree/master/0726-number-of-atoms) |
 ## Bit Manipulation
 |  |
@@ -134,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Ridima28/LeetcodeSol/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Ridima28/LeetcodeSol/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
