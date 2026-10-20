@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ridima28/LeetcodeSol/tree/master/0496-next-greater-element-i) |
 | [0658-find-k-closest-elements](https://github.com/Ridima28/LeetcodeSol/tree/master/0658-find-k-closest-elements) |
 | [2306-naming-a-company](https://github.com/Ridima28/LeetcodeSol/tree/master/2306-naming-a-company) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ridima28/LeetcodeSol/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/Ridima28/LeetcodeSol/tree/master/3151-special-array-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Ridima28/LeetcodeSol/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
