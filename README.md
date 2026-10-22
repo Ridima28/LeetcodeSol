@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
 | [0658-find-k-closest-elements](https://github.com/Ridima28/LeetcodeSol/tree/master/0658-find-k-closest-elements) |
 | [0726-number-of-atoms](https://github.com/Ridima28/LeetcodeSol/tree/master/0726-number-of-atoms) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ridima28/LeetcodeSol/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -157,4 +158,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2306-naming-a-company](https://github.com/Ridima28/LeetcodeSol/tree/master/2306-naming-a-company) |
+## Tree
+|  |
+| ------- |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ridima28/LeetcodeSol/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ridima28/LeetcodeSol/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ridima28/LeetcodeSol/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 <!---LeetCode Topics End-->
