@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ridima28/LeetcodeSol/tree/master/0199-binary-tree-right-side-view) |
 | [0872-leaf-similar-trees](https://github.com/Ridima28/LeetcodeSol/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/Ridima28/LeetcodeSol/tree/master/0938-range-sum-of-bst) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ridima28/LeetcodeSol/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -177,10 +178,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ridima28/LeetcodeSol/tree/master/0199-binary-tree-right-side-view) |
 | [0872-leaf-similar-trees](https://github.com/Ridima28/LeetcodeSol/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/Ridima28/LeetcodeSol/tree/master/0938-range-sum-of-bst) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ridima28/LeetcodeSol/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ridima28/LeetcodeSol/tree/master/0199-binary-tree-right-side-view) |
 | [0872-leaf-similar-trees](https://github.com/Ridima28/LeetcodeSol/tree/master/0872-leaf-similar-trees) |
+| [0938-range-sum-of-bst](https://github.com/Ridima28/LeetcodeSol/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Ridima28/LeetcodeSol/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
