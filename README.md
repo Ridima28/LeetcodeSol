@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0872-leaf-similar-trees](https://github.com/Ridima28/LeetcodeSol/tree/master/0872-leaf-similar-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ridima28/LeetcodeSol/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -172,5 +173,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0872-leaf-similar-trees](https://github.com/Ridima28/LeetcodeSol/tree/master/0872-leaf-similar-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ridima28/LeetcodeSol/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/Ridima28/LeetcodeSol/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
