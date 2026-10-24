@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ridima28/LeetcodeSol/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Ridima28/LeetcodeSol/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0872-leaf-similar-trees](https://github.com/Ridima28/LeetcodeSol/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Ridima28/LeetcodeSol/tree/master/0938-range-sum-of-bst) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ridima28/LeetcodeSol/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -172,11 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ridima28/LeetcodeSol/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Ridima28/LeetcodeSol/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ridima28/LeetcodeSol/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ridima28/LeetcodeSol/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Ridima28/LeetcodeSol/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0872-leaf-similar-trees](https://github.com/Ridima28/LeetcodeSol/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Ridima28/LeetcodeSol/tree/master/0938-range-sum-of-bst) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ridima28/LeetcodeSol/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ridima28/LeetcodeSol/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Ridima28/LeetcodeSol/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0872-leaf-similar-trees](https://github.com/Ridima28/LeetcodeSol/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Ridima28/LeetcodeSol/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
