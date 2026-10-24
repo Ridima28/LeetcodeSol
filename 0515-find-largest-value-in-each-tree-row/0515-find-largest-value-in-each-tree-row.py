@@ -12,7 +12,7 @@ class Solution:
                 return []
             que = [root]
             ans = []
-            que.append(root)
+            
 
             while que:
                 maxi = float('-inf')
