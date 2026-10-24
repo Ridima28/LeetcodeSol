@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Ridima28/LeetcodeSol/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Ridima28/LeetcodeSol/tree/master/0496-next-greater-element-i) |
 | [0658-find-k-closest-elements](https://github.com/Ridima28/LeetcodeSol/tree/master/0658-find-k-closest-elements) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ridima28/LeetcodeSol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2306-naming-a-company](https://github.com/Ridima28/LeetcodeSol/tree/master/2306-naming-a-company) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ridima28/LeetcodeSol/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/Ridima28/LeetcodeSol/tree/master/3151-special-array-i) |
@@ -149,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ridima28/LeetcodeSol/tree/master/0410-split-array-largest-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ridima28/LeetcodeSol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Ridima28/LeetcodeSol/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Ridima28/LeetcodeSol/tree/master/0658-find-k-closest-elements) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ridima28/LeetcodeSol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
