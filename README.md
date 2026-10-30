@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Ridima28/LeetcodeSol/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Ridima28/LeetcodeSol/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ridima28/LeetcodeSol/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ridima28/LeetcodeSol/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Ridima28/LeetcodeSol/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Ridima28/LeetcodeSol/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ridima28/LeetcodeSol/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ridima28/LeetcodeSol/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Ridima28/LeetcodeSol/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Ridima28/LeetcodeSol/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ridima28/LeetcodeSol/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ridima28/LeetcodeSol/tree/master/0515-find-largest-value-in-each-tree-row) |
