@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ridima28/LeetcodeSol/tree/master/0496-next-greater-element-i) |
 | [0658-find-k-closest-elements](https://github.com/Ridima28/LeetcodeSol/tree/master/0658-find-k-closest-elements) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ridima28/LeetcodeSol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Ridima28/LeetcodeSol/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2306-naming-a-company](https://github.com/Ridima28/LeetcodeSol/tree/master/2306-naming-a-company) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ridima28/LeetcodeSol/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/Ridima28/LeetcodeSol/tree/master/3151-special-array-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ridima28/LeetcodeSol/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Ridima28/LeetcodeSol/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0445-add-two-numbers-ii) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Ridima28/LeetcodeSol/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ridima28/LeetcodeSol/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
