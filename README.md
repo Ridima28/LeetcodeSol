@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ridima28/LeetcodeSol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/Ridima28/LeetcodeSol/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ridima28/LeetcodeSol/tree/master/0084-largest-rectangle-in-histogram) |
 | [0229-majority-element-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ridima28/LeetcodeSol/tree/master/0410-split-array-largest-sum) |
@@ -230,10 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ridima28/LeetcodeSol/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ridima28/LeetcodeSol/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0059-spiral-matrix-ii) |
 ## Counting
 |  |
 | ------- |
