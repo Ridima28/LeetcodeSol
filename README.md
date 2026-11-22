@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ridima28/LeetcodeSol/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Ridima28/LeetcodeSol/tree/master/0409-longest-palindrome) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ridima28/LeetcodeSol/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/Ridima28/LeetcodeSol/tree/master/0032-longest-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Ridima28/LeetcodeSol/tree/master/0394-decode-string) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ridima28/LeetcodeSol/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Ridima28/LeetcodeSol/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Ridima28/LeetcodeSol/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0445-add-two-numbers-ii) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ridima28/LeetcodeSol/tree/master/1822-sign-of-the-product-of-an-array) |
