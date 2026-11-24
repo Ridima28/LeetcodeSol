@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ridima28/LeetcodeSol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/Ridima28/LeetcodeSol/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Ridima28/LeetcodeSol/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ridima28/LeetcodeSol/tree/master/0084-largest-rectangle-in-histogram) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ridima28/LeetcodeSol/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Ridima28/LeetcodeSol/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Ridima28/LeetcodeSol/tree/master/0409-longest-palindrome) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ridima28/LeetcodeSol/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ridima28/LeetcodeSol/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Ridima28/LeetcodeSol/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/Ridima28/LeetcodeSol/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Ridima28/LeetcodeSol/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Ridima28/LeetcodeSol/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Ridima28/LeetcodeSol/tree/master/0409-longest-palindrome) |
