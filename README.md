@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ridima28/LeetcodeSol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ridima28/LeetcodeSol/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Ridima28/LeetcodeSol/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ridima28/LeetcodeSol/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Ridima28/LeetcodeSol/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0059-spiral-matrix-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ridima28/LeetcodeSol/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Ridima28/LeetcodeSol/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Ridima28/LeetcodeSol/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Ridima28/LeetcodeSol/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0445-add-two-numbers-ii) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ridima28/LeetcodeSol/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ridima28/LeetcodeSol/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ridima28/LeetcodeSol/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Ridima28/LeetcodeSol/tree/master/0867-transpose-matrix) |
