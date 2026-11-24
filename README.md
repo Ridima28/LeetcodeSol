@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ridima28/LeetcodeSol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ridima28/LeetcodeSol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Ridima28/LeetcodeSol/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Ridima28/LeetcodeSol/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0059-spiral-matrix-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ridima28/LeetcodeSol/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ridima28/LeetcodeSol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0143-reorder-list) |
