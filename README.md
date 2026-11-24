@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ridima28/LeetcodeSol/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0143-reorder-list) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ridima28/LeetcodeSol/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Ridima28/LeetcodeSol/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/Ridima28/LeetcodeSol/tree/master/0032-longest-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/Ridima28/LeetcodeSol/tree/master/0389-find-the-difference) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ridima28/LeetcodeSol/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Ridima28/LeetcodeSol/tree/master/0032-longest-valid-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Ridima28/LeetcodeSol/tree/master/0410-split-array-largest-sum) |
 ## Bracket Sequences
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0229-majority-element-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ridima28/LeetcodeSol/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
