@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ridima28/LeetcodeSol/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ridima28/LeetcodeSol/tree/master/0084-largest-rectangle-in-histogram) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ridima28/LeetcodeSol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/Ridima28/LeetcodeSol/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ridima28/LeetcodeSol/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Ridima28/LeetcodeSol/tree/master/0496-next-greater-element-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Ridima28/LeetcodeSol/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ridima28/LeetcodeSol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0658-find-k-closest-elements](https://github.com/Ridima28/LeetcodeSol/tree/master/0658-find-k-closest-elements) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ridima28/LeetcodeSol/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ridima28/LeetcodeSol/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ridima28/LeetcodeSol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ridima28/LeetcodeSol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/Ridima28/LeetcodeSol/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/Ridima28/LeetcodeSol/tree/master/0658-find-k-closest-elements) |
 ## Greedy
